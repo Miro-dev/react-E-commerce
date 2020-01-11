@@ -1,0 +1,8 @@
+// This should be "package.json" !!!
+
+{
+     "main": "Cart.js"
+}
+
+// This makes the Cart folder to use Cart.js and there is no need to change 
+// imports when you move Cart.js
